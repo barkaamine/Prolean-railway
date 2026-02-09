@@ -1,0 +1,1021 @@
+[
+{
+  "model": "prolean.pageview",
+  "pk": 1,
+  "fields": {
+    "url": "/",
+    "page_title": "Accueil - prolean Centre",
+    "referrer": "",
+    "session_id": "3kxnal19ngngfpgnjgn6xh4zkgdeajbo",
+    "ip_address": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "city": "Casablanca",
+    "country": "Maroc",
+    "device_type": "desktop",
+    "timestamp": "2026-02-09T11:16:11.122Z"
+  }
+},
+{
+  "model": "prolean.pageview",
+  "pk": 2,
+  "fields": {
+    "url": "/",
+    "page_title": "Accueil - prolean Centre",
+    "referrer": "http://127.0.0.1:8000/login/",
+    "session_id": "mwgcd7t30o48orf541wb6zwmrt04wa31",
+    "ip_address": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "city": "Casablanca",
+    "country": "Maroc",
+    "device_type": "desktop",
+    "timestamp": "2026-02-09T11:16:35.932Z"
+  }
+},
+{
+  "model": "prolean.pageview",
+  "pk": 3,
+  "fields": {
+    "url": "/",
+    "page_title": "Accueil - prolean Centre",
+    "referrer": "http://127.0.0.1:8000/mon-espace/",
+    "session_id": "mwgcd7t30o48orf541wb6zwmrt04wa31",
+    "ip_address": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "city": "Casablanca",
+    "country": "Maroc",
+    "device_type": "desktop",
+    "timestamp": "2026-02-09T11:16:45.336Z"
+  }
+},
+{
+  "model": "prolean.pageview",
+  "pk": 4,
+  "fields": {
+    "url": "/",
+    "page_title": "Accueil - prolean Centre",
+    "referrer": "",
+    "session_id": "mwgcd7t30o48orf541wb6zwmrt04wa31",
+    "ip_address": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "city": "Casablanca",
+    "country": "Maroc",
+    "device_type": "desktop",
+    "timestamp": "2026-02-09T11:20:20.288Z"
+  }
+},
+{
+  "model": "prolean.visitorsession",
+  "pk": 1,
+  "fields": {
+    "session_id": "3kxnal19ngngfpgnjgn6xh4zkgdeajbo",
+    "ip_address": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "city": "Casablanca",
+    "country": "Maroc",
+    "device_type": "desktop",
+    "browser": "",
+    "os": "",
+    "referrer": "",
+    "landing_page": "/",
+    "start_time": "2026-02-09T11:16:11.114Z",
+    "last_activity": "2026-02-09T11:16:11.114Z",
+    "page_views": 1,
+    "session_duration": 0
+  }
+},
+{
+  "model": "prolean.visitorsession",
+  "pk": 2,
+  "fields": {
+    "session_id": "mwgcd7t30o48orf541wb6zwmrt04wa31",
+    "ip_address": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "city": "Casablanca",
+    "country": "Maroc",
+    "device_type": "desktop",
+    "browser": "",
+    "os": "",
+    "referrer": "http://127.0.0.1:8000/login/",
+    "landing_page": "/",
+    "start_time": "2026-02-09T11:16:35.908Z",
+    "last_activity": "2026-02-09T11:20:20.282Z",
+    "page_views": 3,
+    "session_duration": 0
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 1,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:13.005Z",
+    "last_request": "2026-02-09T11:16:13.005Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 2,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:14.211Z",
+    "last_request": "2026-02-09T11:16:14.211Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 3,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:24.568Z",
+    "last_request": "2026-02-09T11:16:24.568Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 4,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:25.661Z",
+    "last_request": "2026-02-09T11:16:25.661Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 5,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:37.062Z",
+    "last_request": "2026-02-09T11:16:37.063Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 6,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:38.138Z",
+    "last_request": "2026-02-09T11:16:38.138Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 7,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:40.334Z",
+    "last_request": "2026-02-09T11:16:40.334Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 8,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:41.339Z",
+    "last_request": "2026-02-09T11:16:41.339Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 9,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:45.808Z",
+    "last_request": "2026-02-09T11:16:45.808Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 10,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:46.879Z",
+    "last_request": "2026-02-09T11:16:46.879Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 11,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:20:20.793Z",
+    "last_request": "2026-02-09T11:20:20.793Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 12,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:20:21.958Z",
+    "last_request": "2026-02-09T11:20:21.959Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.studentprofile",
+  "pk": 1,
+  "fields": {
+    "profile": 1,
+    "session": null,
+    "amount_paid": "0.00",
+    "total_amount_due": "0.00",
+    "authorized_formations": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$Too7rMpKPdahyZJREToLgj$VDGMIzm0ZgpwnyBYl/LtJ1db0W7jnPDoMo2S7M0Ow/s=",
+    "last_login": "2026-02-09T11:16:35Z",
+    "is_superuser": true,
+    "username": "yahya12",
+    "first_name": "",
+    "last_name": "",
+    "email": "yazmmat@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2026-01-26T21:45:00Z",
+    "groups": [],
+    "user_permissions": [
+      [
+        "add_logentry",
+        "admin",
+        "logentry"
+      ],
+      [
+        "change_logentry",
+        "admin",
+        "logentry"
+      ],
+      [
+        "delete_logentry",
+        "admin",
+        "logentry"
+      ],
+      [
+        "view_logentry",
+        "admin",
+        "logentry"
+      ],
+      [
+        "add_group",
+        "auth",
+        "group"
+      ],
+      [
+        "change_group",
+        "auth",
+        "group"
+      ],
+      [
+        "delete_group",
+        "auth",
+        "group"
+      ],
+      [
+        "view_group",
+        "auth",
+        "group"
+      ],
+      [
+        "add_permission",
+        "auth",
+        "permission"
+      ],
+      [
+        "change_permission",
+        "auth",
+        "permission"
+      ],
+      [
+        "delete_permission",
+        "auth",
+        "permission"
+      ],
+      [
+        "view_permission",
+        "auth",
+        "permission"
+      ],
+      [
+        "add_user",
+        "auth",
+        "user"
+      ],
+      [
+        "change_user",
+        "auth",
+        "user"
+      ],
+      [
+        "delete_user",
+        "auth",
+        "user"
+      ],
+      [
+        "view_user",
+        "auth",
+        "user"
+      ],
+      [
+        "add_contenttype",
+        "contenttypes",
+        "contenttype"
+      ],
+      [
+        "change_contenttype",
+        "contenttypes",
+        "contenttype"
+      ],
+      [
+        "delete_contenttype",
+        "contenttypes",
+        "contenttype"
+      ],
+      [
+        "view_contenttype",
+        "contenttypes",
+        "contenttype"
+      ],
+      [
+        "add_attendancelog",
+        "diray",
+        "attendancelog"
+      ],
+      [
+        "change_attendancelog",
+        "diray",
+        "attendancelog"
+      ],
+      [
+        "delete_attendancelog",
+        "diray",
+        "attendancelog"
+      ],
+      [
+        "view_attendancelog",
+        "diray",
+        "attendancelog"
+      ],
+      [
+        "add_city",
+        "diray",
+        "city"
+      ],
+      [
+        "change_city",
+        "diray",
+        "city"
+      ],
+      [
+        "delete_city",
+        "diray",
+        "city"
+      ],
+      [
+        "view_city",
+        "diray",
+        "city"
+      ],
+      [
+        "add_clickevent",
+        "diray",
+        "clickevent"
+      ],
+      [
+        "change_clickevent",
+        "diray",
+        "clickevent"
+      ],
+      [
+        "delete_clickevent",
+        "diray",
+        "clickevent"
+      ],
+      [
+        "view_clickevent",
+        "diray",
+        "clickevent"
+      ],
+      [
+        "add_comment",
+        "diray",
+        "comment"
+      ],
+      [
+        "change_comment",
+        "diray",
+        "comment"
+      ],
+      [
+        "delete_comment",
+        "diray",
+        "comment"
+      ],
+      [
+        "view_comment",
+        "diray",
+        "comment"
+      ],
+      [
+        "add_companybankaccount",
+        "diray",
+        "companybankaccount"
+      ],
+      [
+        "change_companybankaccount",
+        "diray",
+        "companybankaccount"
+      ],
+      [
+        "delete_companybankaccount",
+        "diray",
+        "companybankaccount"
+      ],
+      [
+        "view_companybankaccount",
+        "diray",
+        "companybankaccount"
+      ],
+      [
+        "add_contactrequest",
+        "diray",
+        "contactrequest"
+      ],
+      [
+        "change_contactrequest",
+        "diray",
+        "contactrequest"
+      ],
+      [
+        "delete_contactrequest",
+        "diray",
+        "contactrequest"
+      ],
+      [
+        "view_contactrequest",
+        "diray",
+        "contactrequest"
+      ],
+      [
+        "add_currencyrate",
+        "diray",
+        "currencyrate"
+      ],
+      [
+        "change_currencyrate",
+        "diray",
+        "currencyrate"
+      ],
+      [
+        "delete_currencyrate",
+        "diray",
+        "currencyrate"
+      ],
+      [
+        "view_currencyrate",
+        "diray",
+        "currencyrate"
+      ],
+      [
+        "add_dailystat",
+        "diray",
+        "dailystat"
+      ],
+      [
+        "change_dailystat",
+        "diray",
+        "dailystat"
+      ],
+      [
+        "delete_dailystat",
+        "diray",
+        "dailystat"
+      ],
+      [
+        "view_dailystat",
+        "diray",
+        "dailystat"
+      ],
+      [
+        "add_formsubmission",
+        "diray",
+        "formsubmission"
+      ],
+      [
+        "change_formsubmission",
+        "diray",
+        "formsubmission"
+      ],
+      [
+        "delete_formsubmission",
+        "diray",
+        "formsubmission"
+      ],
+      [
+        "view_formsubmission",
+        "diray",
+        "formsubmission"
+      ],
+      [
+        "add_liverecording",
+        "diray",
+        "liverecording"
+      ],
+      [
+        "change_liverecording",
+        "diray",
+        "liverecording"
+      ],
+      [
+        "delete_liverecording",
+        "diray",
+        "liverecording"
+      ],
+      [
+        "view_liverecording",
+        "diray",
+        "liverecording"
+      ],
+      [
+        "add_pageview",
+        "diray",
+        "pageview"
+      ],
+      [
+        "change_pageview",
+        "diray",
+        "pageview"
+      ],
+      [
+        "delete_pageview",
+        "diray",
+        "pageview"
+      ],
+      [
+        "view_pageview",
+        "diray",
+        "pageview"
+      ],
+      [
+        "add_phonecall",
+        "diray",
+        "phonecall"
+      ],
+      [
+        "change_phonecall",
+        "diray",
+        "phonecall"
+      ],
+      [
+        "delete_phonecall",
+        "diray",
+        "phonecall"
+      ],
+      [
+        "view_phonecall",
+        "diray",
+        "phonecall"
+      ],
+      [
+        "add_professorprofile",
+        "diray",
+        "professorprofile"
+      ],
+      [
+        "change_professorprofile",
+        "diray",
+        "professorprofile"
+      ],
+      [
+        "delete_professorprofile",
+        "diray",
+        "professorprofile"
+      ],
+      [
+        "view_professorprofile",
+        "diray",
+        "professorprofile"
+      ],
+      [
+        "add_profile",
+        "diray",
+        "profile"
+      ],
+      [
+        "change_profile",
+        "diray",
+        "profile"
+      ],
+      [
+        "delete_profile",
+        "diray",
+        "profile"
+      ],
+      [
+        "view_profile",
+        "diray",
+        "profile"
+      ],
+      [
+        "add_promotion",
+        "diray",
+        "promotion"
+      ],
+      [
+        "change_promotion",
+        "diray",
+        "promotion"
+      ],
+      [
+        "delete_promotion",
+        "diray",
+        "promotion"
+      ],
+      [
+        "view_promotion",
+        "diray",
+        "promotion"
+      ],
+      [
+        "add_ratelimitlog",
+        "diray",
+        "ratelimitlog"
+      ],
+      [
+        "change_ratelimitlog",
+        "diray",
+        "ratelimitlog"
+      ],
+      [
+        "delete_ratelimitlog",
+        "diray",
+        "ratelimitlog"
+      ],
+      [
+        "view_ratelimitlog",
+        "diray",
+        "ratelimitlog"
+      ],
+      [
+        "add_recordedvideo",
+        "diray",
+        "recordedvideo"
+      ],
+      [
+        "change_recordedvideo",
+        "diray",
+        "recordedvideo"
+      ],
+      [
+        "delete_recordedvideo",
+        "diray",
+        "recordedvideo"
+      ],
+      [
+        "view_recordedvideo",
+        "diray",
+        "recordedvideo"
+      ],
+      [
+        "add_session",
+        "diray",
+        "session"
+      ],
+      [
+        "change_session",
+        "diray",
+        "session"
+      ],
+      [
+        "delete_session",
+        "diray",
+        "session"
+      ],
+      [
+        "view_session",
+        "diray",
+        "session"
+      ],
+      [
+        "add_studentprofile",
+        "diray",
+        "studentprofile"
+      ],
+      [
+        "change_studentprofile",
+        "diray",
+        "studentprofile"
+      ],
+      [
+        "delete_studentprofile",
+        "diray",
+        "studentprofile"
+      ],
+      [
+        "view_studentprofile",
+        "diray",
+        "studentprofile"
+      ],
+      [
+        "add_threatip",
+        "diray",
+        "threatip"
+      ],
+      [
+        "change_threatip",
+        "diray",
+        "threatip"
+      ],
+      [
+        "delete_threatip",
+        "diray",
+        "threatip"
+      ],
+      [
+        "view_threatip",
+        "diray",
+        "threatip"
+      ],
+      [
+        "add_training",
+        "diray",
+        "training"
+      ],
+      [
+        "change_training",
+        "diray",
+        "training"
+      ],
+      [
+        "delete_training",
+        "diray",
+        "training"
+      ],
+      [
+        "view_training",
+        "diray",
+        "training"
+      ],
+      [
+        "add_trainingpresubscription",
+        "diray",
+        "trainingpresubscription"
+      ],
+      [
+        "change_trainingpresubscription",
+        "diray",
+        "trainingpresubscription"
+      ],
+      [
+        "delete_trainingpresubscription",
+        "diray",
+        "trainingpresubscription"
+      ],
+      [
+        "view_trainingpresubscription",
+        "diray",
+        "trainingpresubscription"
+      ],
+      [
+        "add_trainingreview",
+        "diray",
+        "trainingreview"
+      ],
+      [
+        "change_trainingreview",
+        "diray",
+        "trainingreview"
+      ],
+      [
+        "delete_trainingreview",
+        "diray",
+        "trainingreview"
+      ],
+      [
+        "view_trainingreview",
+        "diray",
+        "trainingreview"
+      ],
+      [
+        "add_trainingwaitlist",
+        "diray",
+        "trainingwaitlist"
+      ],
+      [
+        "change_trainingwaitlist",
+        "diray",
+        "trainingwaitlist"
+      ],
+      [
+        "delete_trainingwaitlist",
+        "diray",
+        "trainingwaitlist"
+      ],
+      [
+        "view_trainingwaitlist",
+        "diray",
+        "trainingwaitlist"
+      ],
+      [
+        "add_videoprogress",
+        "diray",
+        "videoprogress"
+      ],
+      [
+        "change_videoprogress",
+        "diray",
+        "videoprogress"
+      ],
+      [
+        "delete_videoprogress",
+        "diray",
+        "videoprogress"
+      ],
+      [
+        "view_videoprogress",
+        "diray",
+        "videoprogress"
+      ],
+      [
+        "add_visitorsession",
+        "diray",
+        "visitorsession"
+      ],
+      [
+        "change_visitorsession",
+        "diray",
+        "visitorsession"
+      ],
+      [
+        "delete_visitorsession",
+        "diray",
+        "visitorsession"
+      ],
+      [
+        "view_visitorsession",
+        "diray",
+        "visitorsession"
+      ],
+      [
+        "add_whatsappclick",
+        "diray",
+        "whatsappclick"
+      ],
+      [
+        "change_whatsappclick",
+        "diray",
+        "whatsappclick"
+      ],
+      [
+        "delete_whatsappclick",
+        "diray",
+        "whatsappclick"
+      ],
+      [
+        "view_whatsappclick",
+        "diray",
+        "whatsappclick"
+      ],
+      [
+        "add_session",
+        "sessions",
+        "session"
+      ],
+      [
+        "change_session",
+        "sessions",
+        "session"
+      ],
+      [
+        "delete_session",
+        "sessions",
+        "session"
+      ],
+      [
+        "view_session",
+        "sessions",
+        "session"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$EJRX4gLba0zwTgTnQYJ85p$DqrqoBfptGgc3Y0AugwDha53ReXNSyrkbLmJ+alKCqw=",
+    "last_login": "2026-02-04T10:52:14Z",
+    "is_superuser": false,
+    "username": "T343731",
+    "first_name": "YAHYA",
+    "last_name": "AZAMMAT",
+    "email": "yazmmat09@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-02-04T10:52:12Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$r2xsKfZvarVbCfazjx8FHU$1X1hZPORS4ERqHHHC753evX81KLbYsQEFix5qRBXT/A=",
+    "last_login": "2026-02-04T11:10:03.356Z",
+    "is_superuser": false,
+    "username": "Abdesalam",
+    "first_name": "Abdeslam",
+    "last_name": "Azammat",
+    "email": "azmmat2007@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-02-04T11:02:20Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$cPJDdYN2gDaw50dxzGeA3I$mZXC+zP2h1+G/co3esXujXEwfZRtZUlTWjhk27ntUMI=",
+    "last_login": null,
+    "is_superuser": true,
+    "username": "yahya122",
+    "first_name": "",
+    "last_name": "",
+    "email": "yazmmat@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2026-02-09T11:18:14.086Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "prolean.profile",
+  "pk": 1,
+  "fields": {
+    "user": [
+      "yahya12"
+    ],
+    "role": "ADMIN",
+    "full_name": "yahya12",
+    "cin_or_passport": null,
+    "phone_number": "+212676265793",
+    "city": null,
+    "status": "ACTIVE",
+    "email_verified": false,
+    "profile_picture": "",
+    "created_at": "2026-02-09T11:16:35.837Z",
+    "updated_at": "2026-02-09T11:19:36.157Z"
+  }
+}
+]

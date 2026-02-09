@@ -454,9 +454,6 @@ def create_sample_contact_requests():
             'country': 'Maroc',
             'request_type': 'migration',
             'message': 'Je cherche des informations sur les possibilités de migration après formation.',
-            'current_country': 'Maroc',
-            'target_country': 'Canada',
-            'profession': 'Électricien',
             'status': 'contacted'
         },
     ]
