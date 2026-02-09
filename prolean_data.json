@@ -1,0 +1,292 @@
+[
+{
+  "model": "prolean.pageview",
+  "pk": 1,
+  "fields": {
+    "url": "/",
+    "page_title": "Accueil - prolean Centre",
+    "referrer": "",
+    "session_id": "3kxnal19ngngfpgnjgn6xh4zkgdeajbo",
+    "ip_address": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "city": "Casablanca",
+    "country": "Maroc",
+    "device_type": "desktop",
+    "timestamp": "2026-02-09T11:16:11.122Z"
+  }
+},
+{
+  "model": "prolean.pageview",
+  "pk": 2,
+  "fields": {
+    "url": "/",
+    "page_title": "Accueil - prolean Centre",
+    "referrer": "http://127.0.0.1:8000/login/",
+    "session_id": "mwgcd7t30o48orf541wb6zwmrt04wa31",
+    "ip_address": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "city": "Casablanca",
+    "country": "Maroc",
+    "device_type": "desktop",
+    "timestamp": "2026-02-09T11:16:35.932Z"
+  }
+},
+{
+  "model": "prolean.pageview",
+  "pk": 3,
+  "fields": {
+    "url": "/",
+    "page_title": "Accueil - prolean Centre",
+    "referrer": "http://127.0.0.1:8000/mon-espace/",
+    "session_id": "mwgcd7t30o48orf541wb6zwmrt04wa31",
+    "ip_address": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "city": "Casablanca",
+    "country": "Maroc",
+    "device_type": "desktop",
+    "timestamp": "2026-02-09T11:16:45.336Z"
+  }
+},
+{
+  "model": "prolean.pageview",
+  "pk": 4,
+  "fields": {
+    "url": "/",
+    "page_title": "Accueil - prolean Centre",
+    "referrer": "",
+    "session_id": "mwgcd7t30o48orf541wb6zwmrt04wa31",
+    "ip_address": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "city": "Casablanca",
+    "country": "Maroc",
+    "device_type": "desktop",
+    "timestamp": "2026-02-09T11:20:20.288Z"
+  }
+},
+{
+  "model": "prolean.visitorsession",
+  "pk": 1,
+  "fields": {
+    "session_id": "3kxnal19ngngfpgnjgn6xh4zkgdeajbo",
+    "ip_address": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "city": "Casablanca",
+    "country": "Maroc",
+    "device_type": "desktop",
+    "browser": "",
+    "os": "",
+    "referrer": "",
+    "landing_page": "/",
+    "start_time": "2026-02-09T11:16:11.114Z",
+    "last_activity": "2026-02-09T11:16:11.114Z",
+    "page_views": 1,
+    "session_duration": 0
+  }
+},
+{
+  "model": "prolean.visitorsession",
+  "pk": 2,
+  "fields": {
+    "session_id": "mwgcd7t30o48orf541wb6zwmrt04wa31",
+    "ip_address": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "city": "Casablanca",
+    "country": "Maroc",
+    "device_type": "desktop",
+    "browser": "",
+    "os": "",
+    "referrer": "http://127.0.0.1:8000/login/",
+    "landing_page": "/",
+    "start_time": "2026-02-09T11:16:35.908Z",
+    "last_activity": "2026-02-09T11:20:20.282Z",
+    "page_views": 3,
+    "session_duration": 0
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 1,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:13.005Z",
+    "last_request": "2026-02-09T11:16:13.005Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 2,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:14.211Z",
+    "last_request": "2026-02-09T11:16:14.211Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 3,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:24.568Z",
+    "last_request": "2026-02-09T11:16:24.568Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 4,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:25.661Z",
+    "last_request": "2026-02-09T11:16:25.661Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 5,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:37.062Z",
+    "last_request": "2026-02-09T11:16:37.063Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 6,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:38.138Z",
+    "last_request": "2026-02-09T11:16:38.138Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 7,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:40.334Z",
+    "last_request": "2026-02-09T11:16:40.334Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 8,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:41.339Z",
+    "last_request": "2026-02-09T11:16:41.339Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 9,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:45.808Z",
+    "last_request": "2026-02-09T11:16:45.808Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 10,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:46.879Z",
+    "last_request": "2026-02-09T11:16:46.879Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 11,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:20:20.793Z",
+    "last_request": "2026-02-09T11:20:20.793Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 12,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:20:21.958Z",
+    "last_request": "2026-02-09T11:20:21.959Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.profile",
+  "pk": 1,
+  "fields": {
+    "user": [
+      "yahya12"
+    ],
+    "role": "ADMIN",
+    "full_name": "yahya12",
+    "cin_or_passport": null,
+    "phone_number": "+212676265793",
+    "city": null,
+    "status": "ACTIVE",
+    "email_verified": false,
+    "profile_picture": "",
+    "created_at": "2026-02-09T11:16:35.837Z",
+    "updated_at": "2026-02-09T11:19:36.157Z"
+  }
+},
+{
+  "model": "prolean.studentprofile",
+  "pk": 1,
+  "fields": {
+    "profile": 1,
+    "session": null,
+    "amount_paid": "0.00",
+    "total_amount_due": "0.00",
+    "authorized_formations": []
+  }
+}
+]

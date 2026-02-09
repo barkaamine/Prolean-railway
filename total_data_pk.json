@@ -1,0 +1,3520 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2026-01-26T22:19:20.008Z",
+    "user": 1,
+    "content_type": 17,
+    "object_id": "1",
+    "object_repr": "Formation CACES R489 – Chariots Élévateurs",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description d\\u00e9taill\\u00e9e\", \"Disponible \\u00e0 F\\u00e8s\", \"Disponible \\u00e0 Mekn\\u00e8s\", \"Disponible \\u00e0 Oujda\", \"Disponible \\u00e0 La\\u00e2youne\", \"Disponible \\u00e0 Dakhla\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2026-01-26T22:22:18.572Z",
+    "user": 1,
+    "content_type": 17,
+    "object_id": "1",
+    "object_repr": "Formation CACES R489 – Chariots Élévateurs",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nombre maximum d'\\u00e9tudiants\", \"URL de la miniature\", \"URL licence recto\", \"URL licence verso\", \"Image galerie 1\", \"Image galerie 2\", \"L\\u00e9gende image 2\", \"Image galerie 3\", \"L\\u00e9gende image 3\", \"Image galerie 4\", \"L\\u00e9gende image 4\", \"Image galerie 5\", \"L\\u00e9gende image 5\", \"Certificat 1 - URL\", \"Certificat 2 - URL\", \"Certificat 2 - Nom\", \"Certificat 2 - Description\", \"Certificat 3 - URL\", \"Certificat 3 - Nom\", \"Certificat 3 - Description\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2026-01-26T23:00:14.463Z",
+    "user": 1,
+    "content_type": 17,
+    "object_id": "1",
+    "object_repr": "Formation CACES R489 – Chariots Élévateurs",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2026-01-26T23:46:41.181Z",
+    "user": 1,
+    "content_type": 18,
+    "object_id": "1",
+    "object_repr": "yahya - Formation CACES R489 – Chariots Élévateurs - 5★",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Approuv\\u00e9 pour affichage\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2026-01-26T23:56:46.206Z",
+    "user": 1,
+    "content_type": 18,
+    "object_id": "2",
+    "object_repr": "yahya - Formation CACES R489 – Chariots Élévateurs - 5★",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Approuv\\u00e9 pour affichage\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2026-01-27T13:03:30.379Z",
+    "user": 1,
+    "content_type": 18,
+    "object_id": "3",
+    "object_repr": "yahya - Formation CACES R489 – Chariots Élévateurs - 5★",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Approuv\\u00e9 pour affichage\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2026-01-27T13:08:03.403Z",
+    "user": 1,
+    "content_type": 18,
+    "object_id": "3",
+    "object_repr": "yahya - Formation CACES R489 – Chariots Élévateurs - 5★",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"V\\u00e9rifi\\u00e9\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2026-01-27T13:29:17.571Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "1 USD = 0.90 MAD",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Taux de change vers MAD\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2026-01-27T14:07:05.826Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "1 USD = 0.09 MAD",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Taux de change vers MAD\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2026-01-27T23:37:54.889Z",
+    "user": 1,
+    "content_type": 18,
+    "object_id": "5",
+    "object_repr": "ABDESALAM AZAMMAT - Formation CACES R489 – Chariots Élévateurs - 5★",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Approuv\\u00e9 pour affichage\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2026-01-27T23:37:54.895Z",
+    "user": 1,
+    "content_type": 18,
+    "object_id": "4",
+    "object_repr": "abdeslam - Formation CACES R489 – Chariots Élévateurs - 5★",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Approuv\\u00e9 pour affichage\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2026-01-28T00:15:35.823Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "1",
+    "object_repr": "127.0.0.1 - low",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Niveau de menace\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2026-01-28T00:17:52.657Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "1",
+    "object_repr": "127.0.0.1 - high",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Niveau de menace\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2026-01-28T00:41:58.827Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "1",
+    "object_repr": "127.0.0.1 - low",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Niveau de menace\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2026-01-28T00:55:19.800Z",
+    "user": 1,
+    "content_type": 17,
+    "object_id": "1",
+    "object_repr": "Formation CACES R489 – Chariots Élévateurs",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2026-01-28T01:59:31.729Z",
+    "user": 1,
+    "content_type": 18,
+    "object_id": "2",
+    "object_repr": "yahya - Formation CACES R489 – Chariots Élévateurs - 5★",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2026-01-28T01:59:31.730Z",
+    "user": 1,
+    "content_type": 18,
+    "object_id": "1",
+    "object_repr": "yahya - Formation CACES R489 – Chariots Élévateurs - 5★",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2026-01-28T01:59:57.141Z",
+    "user": 1,
+    "content_type": 24,
+    "object_id": "1",
+    "object_repr": "DIRAY CENTRE - Attijariwafa Bank",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2026-01-28T03:36:35.370Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "1 EUR = 0.092 MAD",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Taux de change vers MAD\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2026-01-28T04:01:33.167Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "6",
+    "object_repr": "1 CHF = 0.085 MAD",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Taux de change vers MAD\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2026-01-28T04:01:33.176Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "1 AED = 0.41 MAD",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Taux de change vers MAD\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2026-01-28T04:01:33.180Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "1 CAD = 0.15 MAD",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Taux de change vers MAD\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2026-01-28T04:01:33.184Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "1 GBP = 0.08 MAD",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Taux de change vers MAD\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2026-01-28T04:01:33.187Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "1 USD = 0.11 MAD",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Taux de change vers MAD\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2026-01-28T04:05:29.424Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "1 EUR = 0.093000 MAD",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Taux de change vers MAD\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2026-01-28T04:05:56.059Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "1 USD = 0.120000 MAD",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Taux de change vers MAD\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2026-01-28T10:16:13.593Z",
+    "user": 1,
+    "content_type": 17,
+    "object_id": "7",
+    "object_repr": "Formation Management de la Qualité",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"URL de la miniature\", \"URL licence recto\", \"URL licence verso\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2026-01-28T10:17:24.213Z",
+    "user": 1,
+    "content_type": 17,
+    "object_id": "6",
+    "object_repr": "Formation Soudage",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"URL de la miniature\", \"URL licence recto\", \"URL licence verso\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2026-01-28T10:18:06.986Z",
+    "user": 1,
+    "content_type": 17,
+    "object_id": "5",
+    "object_repr": "Formation Électricien Bâtiment",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"URL de la miniature\", \"URL licence recto\", \"URL licence verso\", \"Description d\\u00e9taill\\u00e9e FR\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2026-01-28T10:19:32.088Z",
+    "user": 1,
+    "content_type": 17,
+    "object_id": "2",
+    "object_repr": "Formation CACES R482 – Engins de Chantier",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"URL de la miniature\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2026-01-28T10:29:15.738Z",
+    "user": 1,
+    "content_type": 17,
+    "object_id": "1",
+    "object_repr": "Formation CACES R489 – Chariots Élévateurs",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"URL de la miniature\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2026-01-28T10:44:55.823Z",
+    "user": 1,
+    "content_type": 18,
+    "object_id": "8",
+    "object_repr": "amine - Formation CACES R489 – Chariots Élévateurs - 5★",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Approuv\\u00e9 pour affichage\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2026-01-28T10:45:08.834Z",
+    "user": 1,
+    "content_type": 18,
+    "object_id": "8",
+    "object_repr": "amine - Formation CACES R489 – Chariots Élévateurs - 5★",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"V\\u00e9rifi\\u00e9\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2026-01-28T10:45:32.778Z",
+    "user": 1,
+    "content_type": 24,
+    "object_id": "1",
+    "object_repr": "DIRAY CENTRE - Attijariwafa Bank",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2026-01-28T10:50:40.301Z",
+    "user": 1,
+    "content_type": 17,
+    "object_id": "1",
+    "object_repr": "Formation CACES R489 – Chariots Élévateurs",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2026-01-28T10:51:14.494Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "1",
+    "object_repr": "127.0.0.1 - high",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Niveau de menace\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2026-01-29T15:16:03.934Z",
+    "user": 1,
+    "content_type": 33,
+    "object_id": "3",
+    "object_repr": "T343731 - STUDENT",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2026-01-29T15:16:11.660Z",
+    "user": 1,
+    "content_type": 33,
+    "object_id": "3",
+    "object_repr": "T343731 - STUDENT",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2026-01-29T15:16:19.932Z",
+    "user": 1,
+    "content_type": 33,
+    "object_id": "3",
+    "object_repr": "T343731 - STUDENT",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Email v\\u00e9rifi\\u00e9\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2026-01-29T15:16:51.155Z",
+    "user": 1,
+    "content_type": 31,
+    "object_id": "2",
+    "object_repr": "Étudiant: YAHYA AZAMMAT",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Formations accessibles\", \"Sessions accessibles\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2026-01-29T15:22:15.808Z",
+    "user": 1,
+    "content_type": 33,
+    "object_id": "2",
+    "object_repr": "test_professor - PROFESSOR",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nom complet\", \"T\\u00e9l\\u00e9phone\", \"Ville\", \"Status\", \"Email v\\u00e9rifi\\u00e9\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2026-01-29T15:22:23.402Z",
+    "user": 1,
+    "content_type": 33,
+    "object_id": "2",
+    "object_repr": "test_professor - PROFESSOR",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2026-01-29T15:23:29.587Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "3",
+    "object_repr": "test_professor",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"password\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2026-01-29T15:23:43.322Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "3",
+    "object_repr": "test_professor",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2026-01-29T15:43:18.978Z",
+    "user": 1,
+    "content_type": 32,
+    "object_id": "3",
+    "object_repr": "Prof. Fatima Zahra",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Actif\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2026-01-29T15:43:49.871Z",
+    "user": 1,
+    "content_type": 31,
+    "object_id": "8",
+    "object_repr": "Étudiant: Karim El Fassi",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Formations accessibles\", \"Sessions accessibles\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2026-01-29T15:45:49.873Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "1",
+    "object_repr": "yahya12",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"User permissions\"]}}, {\"changed\": {\"name\": \"profile\", \"object\": \"yahya12 - ADMIN\", \"fields\": [\"Role\", \"Status\", \"Nom complet\", \"T\\u00e9l\\u00e9phone\", \"Ville\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2026-01-29T15:46:51.094Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "5",
+    "object_repr": "prof_ahmed",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"profile\", \"object\": \"prof_ahmed - PROFESSOR\", \"fields\": [\"CIN ou Passeport\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2026-01-29T15:47:21.461Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "5",
+    "object_repr": "prof_ahmed",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2026-01-29T15:51:03.329Z",
+    "user": 1,
+    "content_type": 33,
+    "object_id": "5",
+    "object_repr": "prof_ahmed - PROFESSOR",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2026-01-29T15:52:14.836Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "7",
+    "object_repr": "student1",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2026-01-29T16:10:56.050Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "3",
+    "object_repr": "Formation CACES R482 – Engins de Chantier - MOHAMMEDIA - 30/01/2026 00:00",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2026-01-29T16:11:55.769Z",
+    "user": 1,
+    "content_type": 31,
+    "object_id": "4",
+    "object_repr": "Étudiant: Mohammed Alami",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Formations accessibles\", \"Sessions accessibles\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2026-01-29T16:13:32.072Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "5",
+    "object_repr": "prof_ahmed",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"password\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2026-01-29T16:28:25.070Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "3",
+    "object_repr": "Formation CACES R482 – Engins de Chantier - MOHAMMEDIA - 30/01/2026 00:00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Professor\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2026-01-29T16:29:19.332Z",
+    "user": 1,
+    "content_type": 30,
+    "object_id": "1",
+    "object_repr": "Rec: Formation CACES R482 – Engins de Chantier - MOHAMMEDIA - 30/01/2026 00:00",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2026-01-29T18:01:18.670Z",
+    "user": 1,
+    "content_type": 33,
+    "object_id": "12",
+    "object_repr": "T177459 - STUDENT",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\", \"Email v\\u00e9rifi\\u00e9\"]}}, {\"changed\": {\"name\": \"student profile\", \"object\": \"\\u00c9tudiant: abdeslam\", \"fields\": [\"Formations accessibles\", \"Sessions accessibles\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2026-01-29T18:15:21.498Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "2",
+    "object_repr": "Formation Sécurité Industrielle HSE - LIVE - 01/02/2026 15:41",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2026-01-29T18:15:21.498Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "4",
+    "object_repr": "Formation Management de la Qualité - LIVE - 30/01/2026 17:33",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2026-01-29T18:15:21.498Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "3",
+    "object_repr": "Formation CACES R482 – Engins de Chantier - MOHAMMEDIA - 30/01/2026 00:00",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2026-01-29T18:15:21.498Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "1",
+    "object_repr": "Test Training - LIVE - 29/01/2026 15:48",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2026-01-29T18:15:21.498Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "5",
+    "object_repr": "Formation Soudage - LIVE - 07/01/2026 17:39",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2026-01-29T18:16:01.036Z",
+    "user": 1,
+    "content_type": 17,
+    "object_id": "9",
+    "object_repr": "Test Training",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2026-01-29T18:24:03.424Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "7",
+    "object_repr": "Formation CACES R490 – Grues de Chargement - Casablanca - 29/01/2026 18:23",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2026-01-29T18:26:47.637Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "7",
+    "object_repr": "Formation CACES R490 – Grues de Chargement - Casablanca - 29/01/2026 18:23",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 66,
+  "fields": {
+    "action_time": "2026-01-29T18:27:03.754Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "12",
+    "object_repr": "T177459",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 67,
+  "fields": {
+    "action_time": "2026-01-29T18:27:03.755Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "4",
+    "object_repr": "T343731",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 68,
+  "fields": {
+    "action_time": "2026-01-29T18:27:03.755Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "6",
+    "object_repr": "prof_fatima",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 69,
+  "fields": {
+    "action_time": "2026-01-29T18:27:03.755Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "8",
+    "object_repr": "student2",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 70,
+  "fields": {
+    "action_time": "2026-01-29T18:27:03.755Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "9",
+    "object_repr": "student3",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 71,
+  "fields": {
+    "action_time": "2026-01-29T18:27:03.755Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "10",
+    "object_repr": "student4",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 72,
+  "fields": {
+    "action_time": "2026-01-29T18:27:03.755Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "11",
+    "object_repr": "student5",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 73,
+  "fields": {
+    "action_time": "2026-01-29T18:27:03.755Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "3",
+    "object_repr": "test_professor",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 74,
+  "fields": {
+    "action_time": "2026-01-29T18:27:03.755Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "test_student",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 75,
+  "fields": {
+    "action_time": "2026-01-29T18:27:31.586Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "6",
+    "object_repr": "Formation Sécurité Industrielle HSE - Casablanca - 29/01/2026 19:21",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 76,
+  "fields": {
+    "action_time": "2026-01-29T18:27:48.066Z",
+    "user": 1,
+    "content_type": 19,
+    "object_id": "1",
+    "object_repr": "azamma - Formation Électricien Bâtiment",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 77,
+  "fields": {
+    "action_time": "2026-01-29T18:28:05.232Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "11",
+    "object_repr": "Demande de amine berka - Demande de formation",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 78,
+  "fields": {
+    "action_time": "2026-01-29T18:28:05.232Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "10",
+    "object_repr": "Demande de YAHYA AZAMMAT - Demande de formation",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 79,
+  "fields": {
+    "action_time": "2026-01-29T18:28:05.232Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "9",
+    "object_repr": "Demande de YAHYA AZAMMAT - Demande de formation",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 80,
+  "fields": {
+    "action_time": "2026-01-29T18:28:05.232Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "8",
+    "object_repr": "Demande de YAHYA AZAMMAT - Demande de formation",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 81,
+  "fields": {
+    "action_time": "2026-01-29T18:28:05.233Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "7",
+    "object_repr": "Demande de YAHYA AZAMMAT - Demande de formation",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 82,
+  "fields": {
+    "action_time": "2026-01-29T18:28:05.233Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "6",
+    "object_repr": "Demande de YAHYA AZAMMAT - Demande de formation",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 83,
+  "fields": {
+    "action_time": "2026-01-29T18:28:05.233Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "5",
+    "object_repr": "Demande de YAHYA AZAMMAT - Demande de formation",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 84,
+  "fields": {
+    "action_time": "2026-01-29T18:28:05.233Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": "Demande de YAHYA AZAMMAT - Service de migration",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 85,
+  "fields": {
+    "action_time": "2026-01-29T18:28:05.233Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "Demande de yahya - Demande de formation",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 86,
+  "fields": {
+    "action_time": "2026-01-29T18:28:05.233Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "Demande de Fatima Zahra - Service de migration",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 87,
+  "fields": {
+    "action_time": "2026-01-29T18:28:05.233Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "Demande de Ahmed Benali - Demande de formation",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 88,
+  "fields": {
+    "action_time": "2026-01-29T18:28:24.858Z",
+    "user": 1,
+    "content_type": 25,
+    "object_id": "9",
+    "object_repr": "Comment by Mohammed Alami on Formation Sécurité Industrielle HSE - Introduction à la formation - Formation Sécurité Industrielle HSE",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 89,
+  "fields": {
+    "action_time": "2026-01-29T18:28:24.858Z",
+    "user": 1,
+    "content_type": 25,
+    "object_id": "8",
+    "object_repr": "Comment by Mohammed Alami on Formation Sécurité Industrielle HSE - Introduction à la formation - Formation Sécurité Industrielle HSE",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 90,
+  "fields": {
+    "action_time": "2026-01-29T18:30:32.256Z",
+    "user": 1,
+    "content_type": 31,
+    "object_id": "4",
+    "object_repr": "Étudiant: Mohammed Alami",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Formations accessibles\", \"Sessions accessibles\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 91,
+  "fields": {
+    "action_time": "2026-01-29T18:53:57.331Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "8",
+    "object_repr": " - Casablanca - 29/01/2026 19:29",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 92,
+  "fields": {
+    "action_time": "2026-01-29T19:30:43.820Z",
+    "user": 1,
+    "content_type": 34,
+    "object_id": "1",
+    "object_repr": "debut de live apres 10 min - student1",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 93,
+  "fields": {
+    "action_time": "2026-01-29T19:31:01.244Z",
+    "user": 1,
+    "content_type": 32,
+    "object_id": "2",
+    "object_repr": "Prof. Ahmed Benali",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 94,
+  "fields": {
+    "action_time": "2026-01-29T19:31:09.389Z",
+    "user": 1,
+    "content_type": 33,
+    "object_id": "5",
+    "object_repr": "prof_ahmed - PROFESSOR",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 95,
+  "fields": {
+    "action_time": "2026-01-29T19:31:17.750Z",
+    "user": 1,
+    "content_type": 33,
+    "object_id": "7",
+    "object_repr": "student1 - STUDENT",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 96,
+  "fields": {
+    "action_time": "2026-01-29T19:31:37.433Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "5",
+    "object_repr": "prof_ahmed",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 97,
+  "fields": {
+    "action_time": "2026-01-29T19:31:37.433Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "7",
+    "object_repr": "student1",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 98,
+  "fields": {
+    "action_time": "2026-01-29T19:33:58.865Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "13",
+    "object_repr": "SIHAM",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 99,
+  "fields": {
+    "action_time": "2026-01-29T19:35:21.201Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "13",
+    "object_repr": "SIHAM",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\", \"User permissions\"]}}, {\"changed\": {\"name\": \"profile\", \"object\": \"SIHAM - ASSISTANT\", \"fields\": [\"Role\", \"Status\", \"CIN ou Passeport\", \"T\\u00e9l\\u00e9phone\", \"Ville\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 100,
+  "fields": {
+    "action_time": "2026-01-29T19:35:34.740Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "13",
+    "object_repr": "SIHAM",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Staff status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 101,
+  "fields": {
+    "action_time": "2026-01-29T19:36:16.023Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "13",
+    "object_repr": "SIHAM",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 102,
+  "fields": {
+    "action_time": "2026-01-29T19:37:09.818Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "14",
+    "object_repr": "SIHAM",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 103,
+  "fields": {
+    "action_time": "2026-01-29T19:38:30.053Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "14",
+    "object_repr": "SIHAM",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\", \"Staff status\", \"User permissions\"]}}, {\"changed\": {\"name\": \"profile\", \"object\": \"SIHAM - ASSISTANT\", \"fields\": [\"Role\", \"Status\", \"CIN ou Passeport\", \"T\\u00e9l\\u00e9phone\", \"Ville\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 104,
+  "fields": {
+    "action_time": "2026-01-29T19:38:44.791Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "1",
+    "object_repr": "yahya12",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 105,
+  "fields": {
+    "action_time": "2026-01-29T19:39:01.098Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "14",
+    "object_repr": "SIHAM",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Last login\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 106,
+  "fields": {
+    "action_time": "2026-01-29T19:39:47.899Z",
+    "user": 1,
+    "content_type": 36,
+    "object_id": "1",
+    "object_repr": "Assistant: SIHAM",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 107,
+  "fields": {
+    "action_time": "2026-01-29T19:40:52.065Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "15",
+    "object_repr": "MEHDI",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 108,
+  "fields": {
+    "action_time": "2026-01-29T19:41:46.058Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "15",
+    "object_repr": "MEHDI",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\", \"Staff status\", \"User permissions\", \"Last login\"]}}, {\"changed\": {\"name\": \"profile\", \"object\": \"MEHDI - ASSISTANT\", \"fields\": [\"Role\", \"Status\", \"CIN ou Passeport\", \"T\\u00e9l\\u00e9phone\", \"Ville\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 109,
+  "fields": {
+    "action_time": "2026-01-29T19:42:09.755Z",
+    "user": 1,
+    "content_type": 36,
+    "object_id": "2",
+    "object_repr": "Assistant: MEHDI",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 110,
+  "fields": {
+    "action_time": "2026-01-29T19:43:18.469Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "16",
+    "object_repr": "YahyaAzammat",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 111,
+  "fields": {
+    "action_time": "2026-01-29T19:44:32.005Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "12",
+    "object_repr": "Mohammedia",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 112,
+  "fields": {
+    "action_time": "2026-01-29T19:44:39.490Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "16",
+    "object_repr": "YahyaAzammat",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\"]}}, {\"changed\": {\"name\": \"profile\", \"object\": \"YahyaAzammat - STUDENT\", \"fields\": [\"Status\", \"CIN ou Passeport\", \"T\\u00e9l\\u00e9phone\", \"Ville\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 113,
+  "fields": {
+    "action_time": "2026-01-29T19:49:15.206Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "17",
+    "object_repr": "Abdeslamazammat",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 114,
+  "fields": {
+    "action_time": "2026-01-29T19:50:07.784Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "17",
+    "object_repr": "Abdeslamazammat",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\"]}}, {\"changed\": {\"name\": \"profile\", \"object\": \"Abdeslamazammat - PROFESSOR\", \"fields\": [\"Role\", \"Status\", \"CIN ou Passeport\", \"T\\u00e9l\\u00e9phone\", \"Ville\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 115,
+  "fields": {
+    "action_time": "2026-01-29T19:50:28.355Z",
+    "user": 1,
+    "content_type": 32,
+    "object_id": "4",
+    "object_repr": "Prof. Abdeslamazammat",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 116,
+  "fields": {
+    "action_time": "2026-01-29T19:51:05.654Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "18",
+    "object_repr": "ELMOUSSMOHAMMED",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 117,
+  "fields": {
+    "action_time": "2026-01-29T19:52:15.294Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "18",
+    "object_repr": "ELMOUSSMOHAMMED",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\"]}}, {\"changed\": {\"name\": \"profile\", \"object\": \"ELMOUSSMOHAMMED - PROFESSOR\", \"fields\": [\"Role\", \"Status\", \"CIN ou Passeport\", \"T\\u00e9l\\u00e9phone\", \"Ville\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 118,
+  "fields": {
+    "action_time": "2026-01-29T19:52:26.133Z",
+    "user": 1,
+    "content_type": 32,
+    "object_id": "5",
+    "object_repr": "Prof. ELMOUSSMOHAMMED",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 119,
+  "fields": {
+    "action_time": "2026-01-29T19:53:07.234Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "13",
+    "object_repr": "EL jadida",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 120,
+  "fields": {
+    "action_time": "2026-01-29T19:54:05.926Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "9",
+    "object_repr": "Formation Électricien Bâtiment - EL jadida - 29/01/2026 19:53",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 121,
+  "fields": {
+    "action_time": "2026-01-29T19:55:05.866Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "16",
+    "object_repr": "YahyaAzammat",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 122,
+  "fields": {
+    "action_time": "2026-01-29T19:56:10.068Z",
+    "user": 1,
+    "content_type": 36,
+    "object_id": "1",
+    "object_repr": "Assistant: SIHAM",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Villes assign\\u00e9es\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 129,
+  "fields": {
+    "action_time": "2026-01-29T20:58:09.719Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "9",
+    "object_repr": "Formation Électricien Bâtiment - EL jadida - 29/01/2026 19:53",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Professor\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 130,
+  "fields": {
+    "action_time": "2026-01-29T20:58:38.258Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "9",
+    "object_repr": "Formation Électricien Bâtiment - EL jadida - 29/01/2026 19:53",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Professor\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 131,
+  "fields": {
+    "action_time": "2026-01-29T21:19:44.753Z",
+    "user": 1,
+    "content_type": 31,
+    "object_id": "10",
+    "object_repr": "Étudiant: YahyaAzammat",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Formations accessibles\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 132,
+  "fields": {
+    "action_time": "2026-01-29T21:32:31.346Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "9",
+    "object_repr": "Formation Sécurité Industrielle HSE, Formation Électricien Bâtiment - EL jadida - 29/01/2026 19:53",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Formations\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 133,
+  "fields": {
+    "action_time": "2026-01-29T21:53:11.558Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "9",
+    "object_repr": "Formation Sécurité Industrielle HSE, Formation Électricien Bâtiment - EL jadida - 29/01/2026 19:53",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 134,
+  "fields": {
+    "action_time": "2026-01-29T21:53:22.511Z",
+    "user": 1,
+    "content_type": 36,
+    "object_id": "2",
+    "object_repr": "Assistant: MEHDI",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 135,
+  "fields": {
+    "action_time": "2026-01-29T21:53:22.512Z",
+    "user": 1,
+    "content_type": 36,
+    "object_id": "1",
+    "object_repr": "Assistant: SIHAM",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 136,
+  "fields": {
+    "action_time": "2026-01-29T21:53:39.176Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "17",
+    "object_repr": "Abdeslamazammat",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 137,
+  "fields": {
+    "action_time": "2026-01-29T21:53:39.176Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "18",
+    "object_repr": "ELMOUSSMOHAMMED",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 138,
+  "fields": {
+    "action_time": "2026-01-29T21:53:39.176Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "15",
+    "object_repr": "MEHDI",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 139,
+  "fields": {
+    "action_time": "2026-01-29T21:53:39.176Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "14",
+    "object_repr": "SIHAM",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 140,
+  "fields": {
+    "action_time": "2026-01-29T21:53:39.176Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "16",
+    "object_repr": "YahyaAzammat",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 141,
+  "fields": {
+    "action_time": "2026-01-29T21:53:39.176Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "22",
+    "object_repr": "karim@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 142,
+  "fields": {
+    "action_time": "2026-01-29T21:53:39.176Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "21",
+    "object_repr": "maryam@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 143,
+  "fields": {
+    "action_time": "2026-01-29T21:56:43.318Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "23",
+    "object_repr": "SIHAMALAOUI",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 144,
+  "fields": {
+    "action_time": "2026-01-29T21:58:00.175Z",
+    "user": 1,
+    "content_type": 36,
+    "object_id": "3",
+    "object_repr": "Assistant: SIHAMALAOUI",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 145,
+  "fields": {
+    "action_time": "2026-01-29T21:59:47.785Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "24",
+    "object_repr": "Abdoazammat",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 146,
+  "fields": {
+    "action_time": "2026-01-29T22:00:06.057Z",
+    "user": 1,
+    "content_type": 32,
+    "object_id": "6",
+    "object_repr": "Prof. Abdoazammat",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 147,
+  "fields": {
+    "action_time": "2026-01-29T22:01:01.746Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "25",
+    "object_repr": "zakariaazamat",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 148,
+  "fields": {
+    "action_time": "2026-01-29T22:01:44.611Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "25",
+    "object_repr": "zakariaazamat",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\", \"Last login\"]}}, {\"changed\": {\"name\": \"profile\", \"object\": \"zakariaazamat - STUDENT\", \"fields\": [\"Status\", \"CIN ou Passeport\", \"T\\u00e9l\\u00e9phone\", \"Ville\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 149,
+  "fields": {
+    "action_time": "2026-01-29T22:03:46.280Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "25",
+    "object_repr": "zakariaazamat",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"password\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 150,
+  "fields": {
+    "action_time": "2026-01-29T22:06:41.457Z",
+    "user": 1,
+    "content_type": 31,
+    "object_id": "14",
+    "object_repr": "Étudiant: zakariaazamat",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Formations accessibles\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 151,
+  "fields": {
+    "action_time": "2026-01-29T22:24:09.440Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "26",
+    "object_repr": "yahyaas",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 152,
+  "fields": {
+    "action_time": "2026-01-29T22:24:41.065Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "26",
+    "object_repr": "yahyaas",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\", \"Last login\"]}}, {\"changed\": {\"name\": \"profile\", \"object\": \"yahyaas - STUDENT\", \"fields\": [\"Status\", \"CIN ou Passeport\", \"T\\u00e9l\\u00e9phone\", \"Ville\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 153,
+  "fields": {
+    "action_time": "2026-01-29T22:32:17.936Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "27",
+    "object_repr": "malakazammat",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 154,
+  "fields": {
+    "action_time": "2026-01-29T22:33:04.124Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "27",
+    "object_repr": "malakazammat",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\", \"Last login\"]}}, {\"changed\": {\"name\": \"profile\", \"object\": \"malakazammat - STUDENT\", \"fields\": [\"Status\", \"CIN ou Passeport\", \"T\\u00e9l\\u00e9phone\", \"Ville\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 155,
+  "fields": {
+    "action_time": "2026-01-29T22:33:21.705Z",
+    "user": 1,
+    "content_type": 31,
+    "object_id": "14",
+    "object_repr": "Étudiant: zakariaazamat",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 156,
+  "fields": {
+    "action_time": "2026-01-29T22:33:31.656Z",
+    "user": 1,
+    "content_type": 32,
+    "object_id": "6",
+    "object_repr": "Prof. Abdoazammat",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 157,
+  "fields": {
+    "action_time": "2026-01-29T22:36:30.966Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "24",
+    "object_repr": "Abdoazammat",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 158,
+  "fields": {
+    "action_time": "2026-01-29T22:36:30.967Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "23",
+    "object_repr": "SIHAMALAOUI",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 159,
+  "fields": {
+    "action_time": "2026-01-29T22:36:30.967Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "27",
+    "object_repr": "malakazammat",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 160,
+  "fields": {
+    "action_time": "2026-01-29T22:36:30.967Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "26",
+    "object_repr": "yahyaas",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 161,
+  "fields": {
+    "action_time": "2026-01-29T22:36:30.967Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "25",
+    "object_repr": "zakariaazamat",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 162,
+  "fields": {
+    "action_time": "2026-01-30T01:43:00.767Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "28",
+    "object_repr": "YahyaAzammat",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 163,
+  "fields": {
+    "action_time": "2026-01-30T01:44:26.825Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "28",
+    "object_repr": "YahyaAzammat",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\"]}}, {\"changed\": {\"name\": \"profile\", \"object\": \"YahyaAzammat - STUDENT\", \"fields\": [\"Status\", \"CIN ou Passeport\", \"T\\u00e9l\\u00e9phone\", \"Ville\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 164,
+  "fields": {
+    "action_time": "2026-01-30T01:45:20.498Z",
+    "user": 1,
+    "content_type": 31,
+    "object_id": "16",
+    "object_repr": "Étudiant: YahyaAzammat",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Formations autoris\\u00e9es\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 165,
+  "fields": {
+    "action_time": "2026-01-30T01:47:45.999Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "29",
+    "object_repr": "Abdesalam",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 166,
+  "fields": {
+    "action_time": "2026-01-30T01:48:31.052Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "29",
+    "object_repr": "Abdesalam",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\", \"Last login\"]}}, {\"changed\": {\"name\": \"profile\", \"object\": \"Abdesalam - PROFESSOR\", \"fields\": [\"Role\", \"Status\", \"CIN ou Passeport\", \"T\\u00e9l\\u00e9phone\", \"Ville\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 167,
+  "fields": {
+    "action_time": "2026-01-30T01:48:39.283Z",
+    "user": 1,
+    "content_type": 32,
+    "object_id": "7",
+    "object_repr": "Prof. Abdesalam",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 168,
+  "fields": {
+    "action_time": "2026-01-30T01:49:37.267Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "1",
+    "object_repr": "Formation Sécurité Industrielle HSE, Formation Management de la Qualité (+2) - Casablanca - 2026-01-30",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 169,
+  "fields": {
+    "action_time": "2026-01-30T01:55:55.514Z",
+    "user": 1,
+    "content_type": 33,
+    "object_id": "28",
+    "object_repr": "YahyaAzammat - STUDENT",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"student profile\", \"object\": \"\\u00c9tudiant: YahyaAzammat\", \"fields\": [\"Session active\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 170,
+  "fields": {
+    "action_time": "2026-01-30T11:51:45.544Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "1",
+    "object_repr": "Formation CACES R489 – Chariots Élévateurs - Casablanca - 2026-01-30",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Formations\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 171,
+  "fields": {
+    "action_time": "2026-01-30T11:53:53.265Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "30",
+    "object_repr": "MalakAzammat",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 172,
+  "fields": {
+    "action_time": "2026-01-30T11:54:42.416Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "30",
+    "object_repr": "MalakAzammat",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\"]}}, {\"changed\": {\"name\": \"profile\", \"object\": \"MalakAzammat - STUDENT\", \"fields\": [\"Status\", \"CIN ou Passeport\", \"T\\u00e9l\\u00e9phone\", \"Ville\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 173,
+  "fields": {
+    "action_time": "2026-01-30T11:55:19.784Z",
+    "user": 1,
+    "content_type": 31,
+    "object_id": "18",
+    "object_repr": "Étudiant: MalakAzammat",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Formations autoris\\u00e9es\", \"Session active\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 174,
+  "fields": {
+    "action_time": "2026-01-30T12:43:10.116Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "1",
+    "object_repr": "Formation CACES R489 – Chariots Élévateurs - Casablanca - 2026-01-30",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Statut\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 175,
+  "fields": {
+    "action_time": "2026-01-30T12:49:47.347Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "1",
+    "object_repr": "Formation CACES R489 – Chariots Élévateurs - Casablanca - 2026-01-30",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Date de fin\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 176,
+  "fields": {
+    "action_time": "2026-01-30T12:49:52.960Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "1",
+    "object_repr": "Formation CACES R489 – Chariots Élévateurs - Casablanca - 2026-01-30",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Statut\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 177,
+  "fields": {
+    "action_time": "2026-01-30T12:50:38.516Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "1",
+    "object_repr": "Formation CACES R489 – Chariots Élévateurs - Casablanca - 2026-01-30",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 178,
+  "fields": {
+    "action_time": "2026-01-30T13:08:43.459Z",
+    "user": 1,
+    "content_type": 31,
+    "object_id": "16",
+    "object_repr": "Étudiant: YahyaAzammat",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Montant pay\\u00e9\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 179,
+  "fields": {
+    "action_time": "2026-01-30T13:36:43.912Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "1",
+    "object_repr": "Formation CACES R489 – Chariots Élévateurs - Casablanca - 2026-01-30",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 180,
+  "fields": {
+    "action_time": "2026-01-30T13:51:14.313Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "1",
+    "object_repr": "Formation CACES R489 – Chariots Élévateurs - Casablanca - 2026-01-30",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Statut\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 181,
+  "fields": {
+    "action_time": "2026-01-30T13:51:33.341Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "1",
+    "object_repr": "Formation CACES R489 – Chariots Élévateurs - Casablanca - 2026-01-30",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Statut\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 182,
+  "fields": {
+    "action_time": "2026-01-30T14:35:53.778Z",
+    "user": 1,
+    "content_type": 31,
+    "object_id": "16",
+    "object_repr": "Étudiant: YahyaAzammat",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Formations autoris\\u00e9es\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 183,
+  "fields": {
+    "action_time": "2026-01-30T14:44:32.867Z",
+    "user": 1,
+    "content_type": 33,
+    "object_id": "28",
+    "object_repr": "YahyaAzammat - STUDENT",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 184,
+  "fields": {
+    "action_time": "2026-01-30T14:45:03.992Z",
+    "user": 1,
+    "content_type": 31,
+    "object_id": "16",
+    "object_repr": "Étudiant: YahyaAzammat",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 185,
+  "fields": {
+    "action_time": "2026-01-30T14:54:47.102Z",
+    "user": 1,
+    "content_type": 33,
+    "object_id": "28",
+    "object_repr": "YahyaAzammat - STUDENT",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 186,
+  "fields": {
+    "action_time": "2026-01-30T14:57:31.848Z",
+    "user": 1,
+    "content_type": 33,
+    "object_id": "28",
+    "object_repr": "YahyaAzammat - STUDENT",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 187,
+  "fields": {
+    "action_time": "2026-01-30T15:07:11.369Z",
+    "user": 1,
+    "content_type": 33,
+    "object_id": "28",
+    "object_repr": "YahyaAzammat - STUDENT",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 188,
+  "fields": {
+    "action_time": "2026-01-30T16:19:07.934Z",
+    "user": 1,
+    "content_type": 33,
+    "object_id": "28",
+    "object_repr": "YahyaAzammat - STUDENT",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 189,
+  "fields": {
+    "action_time": "2026-01-30T16:19:16.302Z",
+    "user": 1,
+    "content_type": 33,
+    "object_id": "28",
+    "object_repr": "YahyaAzammat - STUDENT",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 190,
+  "fields": {
+    "action_time": "2026-01-30T18:33:22.120Z",
+    "user": 1,
+    "content_type": 33,
+    "object_id": "28",
+    "object_repr": "YahyaAzammat - STUDENT",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 191,
+  "fields": {
+    "action_time": "2026-01-30T18:33:37.994Z",
+    "user": 1,
+    "content_type": 33,
+    "object_id": "28",
+    "object_repr": "YahyaAzammat - STUDENT",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 192,
+  "fields": {
+    "action_time": "2026-01-30T18:52:21.477Z",
+    "user": 1,
+    "content_type": 33,
+    "object_id": "28",
+    "object_repr": "YahyaAzammat - STUDENT",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 193,
+  "fields": {
+    "action_time": "2026-01-30T18:53:07.484Z",
+    "user": 1,
+    "content_type": 33,
+    "object_id": "28",
+    "object_repr": "YahyaAzammat - STUDENT",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 194,
+  "fields": {
+    "action_time": "2026-01-31T15:21:44.999Z",
+    "user": 1,
+    "content_type": 33,
+    "object_id": "28",
+    "object_repr": "YahyaAzammat - STUDENT",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Photo de profil\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 195,
+  "fields": {
+    "action_time": "2026-01-31T15:52:46.836Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "1",
+    "object_repr": "Formation CACES R489 – Chariots Élévateurs - Casablanca - 2026-01-30",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 196,
+  "fields": {
+    "action_time": "2026-01-31T15:54:14.404Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "2",
+    "object_repr": "Formation Management de la Qualité - Mohammedia - 2026-01-31",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 197,
+  "fields": {
+    "action_time": "2026-01-31T15:56:09.632Z",
+    "user": 1,
+    "content_type": 31,
+    "object_id": "16",
+    "object_repr": "Étudiant: YAHYA AZAMMAT",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Session active\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 198,
+  "fields": {
+    "action_time": "2026-01-31T15:56:28.431Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "2",
+    "object_repr": "Formation Sécurité Industrielle HSE - Mohammedia - 2026-01-31",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Formations\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 199,
+  "fields": {
+    "action_time": "2026-01-31T15:56:45.322Z",
+    "user": 1,
+    "content_type": 31,
+    "object_id": "16",
+    "object_repr": "Étudiant: YAHYA AZAMMAT",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 200,
+  "fields": {
+    "action_time": "2026-01-31T16:06:50.615Z",
+    "user": 1,
+    "content_type": 31,
+    "object_id": "18",
+    "object_repr": "Étudiant: MalakAzammat",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Session active\", \"Montant pay\\u00e9\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 201,
+  "fields": {
+    "action_time": "2026-01-31T16:09:58.735Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "31",
+    "object_repr": "ZakariaAzammat",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 202,
+  "fields": {
+    "action_time": "2026-01-31T16:10:42.952Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "31",
+    "object_repr": "ZakariaAzammat",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\"]}}, {\"changed\": {\"name\": \"profile\", \"object\": \"ZakariaAzammat - STUDENT\", \"fields\": [\"Status\", \"CIN ou Passeport\", \"T\\u00e9l\\u00e9phone\", \"Ville\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 203,
+  "fields": {
+    "action_time": "2026-01-31T16:11:04.799Z",
+    "user": 1,
+    "content_type": 31,
+    "object_id": "19",
+    "object_repr": "Étudiant: ZakariaAzammat",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Formations autoris\\u00e9es\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 204,
+  "fields": {
+    "action_time": "2026-01-31T16:11:16.035Z",
+    "user": 1,
+    "content_type": 31,
+    "object_id": "19",
+    "object_repr": "Étudiant: ZakariaAzammat",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Session active\", \"Montant pay\\u00e9\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 205,
+  "fields": {
+    "action_time": "2026-01-31T16:13:34.962Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "2",
+    "object_repr": "Formation Sécurité Industrielle HSE - Mohammedia - 2026-01-31",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Statut\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 206,
+  "fields": {
+    "action_time": "2026-01-31T16:15:25.252Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "32",
+    "object_repr": "SihamAlaoui",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 207,
+  "fields": {
+    "action_time": "2026-01-31T16:16:24.857Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "32",
+    "object_repr": "SihamAlaoui",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\"]}}, {\"changed\": {\"name\": \"profile\", \"object\": \"SihamAlaoui - ASSISTANT\", \"fields\": [\"Role\", \"Status\", \"CIN ou Passeport\", \"T\\u00e9l\\u00e9phone\", \"Ville\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 208,
+  "fields": {
+    "action_time": "2026-01-31T16:16:47.730Z",
+    "user": 1,
+    "content_type": 36,
+    "object_id": "4",
+    "object_repr": "Assistant: SihamAlaoui",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Villes assign\\u00e9es\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 209,
+  "fields": {
+    "action_time": "2026-01-31T16:18:21.619Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "32",
+    "object_repr": "SihamAlaoui",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Staff status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 210,
+  "fields": {
+    "action_time": "2026-01-31T16:22:53.713Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "32",
+    "object_repr": "SihamAlaoui",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"User permissions\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 211,
+  "fields": {
+    "action_time": "2026-02-04T00:15:01.967Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "2",
+    "object_repr": "Formation Sécurité Industrielle HSE - Mohammedia - 2026-01-31",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Statut\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 212,
+  "fields": {
+    "action_time": "2026-02-04T00:19:42.167Z",
+    "user": 1,
+    "content_type": 36,
+    "object_id": "4",
+    "object_repr": "Assistant: SihamAlaoui",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Villes assign\\u00e9es\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 213,
+  "fields": {
+    "action_time": "2026-02-04T10:49:27.292Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "2",
+    "object_repr": "Formation Sécurité Industrielle HSE - Mohammedia - 2026-01-31",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 214,
+  "fields": {
+    "action_time": "2026-02-04T10:49:47.938Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "34",
+    "object_repr": "34344543",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 215,
+  "fields": {
+    "action_time": "2026-02-04T10:49:47.938Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "29",
+    "object_repr": "Abdesalam",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 216,
+  "fields": {
+    "action_time": "2026-02-04T10:49:47.938Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "30",
+    "object_repr": "MalakAzammat",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 217,
+  "fields": {
+    "action_time": "2026-02-04T10:49:47.938Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "32",
+    "object_repr": "SihamAlaoui",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 218,
+  "fields": {
+    "action_time": "2026-02-04T10:49:47.939Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "33",
+    "object_repr": "T343731",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 219,
+  "fields": {
+    "action_time": "2026-02-04T10:49:47.939Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "28",
+    "object_repr": "YahyaAzammat",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 220,
+  "fields": {
+    "action_time": "2026-02-04T10:49:47.939Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "31",
+    "object_repr": "ZakariaAzammat",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 221,
+  "fields": {
+    "action_time": "2026-02-04T11:02:23.564Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "36",
+    "object_repr": "Abdesalam",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 222,
+  "fields": {
+    "action_time": "2026-02-04T11:03:13.710Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "36",
+    "object_repr": "Abdesalam",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\"]}}, {\"changed\": {\"name\": \"profile\", \"object\": \"Abdesalam - PROFESSOR\", \"fields\": [\"Role\", \"Status\", \"CIN ou Passeport\", \"T\\u00e9l\\u00e9phone\", \"Ville\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 223,
+  "fields": {
+    "action_time": "2026-02-04T11:04:42.954Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "3",
+    "object_repr": "Formation Sécurité Industrielle HSE - Mohammedia - 2026-02-04",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 224,
+  "fields": {
+    "action_time": "2026-02-04T11:05:31.696Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "35",
+    "object_repr": "T343731",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"profile\", \"object\": \"T343731 - STUDENT\", \"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 225,
+  "fields": {
+    "action_time": "2026-02-04T11:07:09.978Z",
+    "user": 1,
+    "content_type": 31,
+    "object_id": "23",
+    "object_repr": "Étudiant: YAHYA AZAMMAT",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Formations autoris\\u00e9es\", \"Session active\", \"Montant pay\\u00e9\", \"Montant total d\\u00fb\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 226,
+  "fields": {
+    "action_time": "2026-02-04T11:10:26.774Z",
+    "user": 1,
+    "content_type": 28,
+    "object_id": "3",
+    "object_repr": "Formation Sécurité Industrielle HSE - Mohammedia - 2026-02-04",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Statut\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 227,
+  "fields": {
+    "action_time": "2026-02-09T11:19:36.160Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "1",
+    "object_repr": "yahya12",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"profile\", \"object\": \"yahya12 - ADMIN\", \"fields\": [\"Role\", \"Status\", \"T\\u00e9l\\u00e9phone\"]}}]"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$Too7rMpKPdahyZJREToLgj$VDGMIzm0ZgpwnyBYl/LtJ1db0W7jnPDoMo2S7M0Ow/s=",
+    "last_login": "2026-02-09T11:16:35Z",
+    "is_superuser": true,
+    "username": "yahya12",
+    "first_name": "",
+    "last_name": "",
+    "email": "yazmmat@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2026-01-26T21:45:00Z",
+    "groups": [],
+    "user_permissions": [
+      1,
+      2,
+      3,
+      4,
+      9,
+      10,
+      11,
+      12,
+      5,
+      6,
+      7,
+      8,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      101,
+      102,
+      103,
+      104,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      97,
+      98,
+      99,
+      100,
+      93,
+      94,
+      95,
+      96,
+      73,
+      74,
+      75,
+      76,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      117,
+      118,
+      119,
+      120,
+      61,
+      62,
+      63,
+      64,
+      45,
+      46,
+      47,
+      48,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      85,
+      86,
+      87,
+      88,
+      65,
+      66,
+      67,
+      68,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      121,
+      122,
+      123,
+      124,
+      49,
+      50,
+      51,
+      52,
+      69,
+      70,
+      71,
+      72,
+      89,
+      90,
+      91,
+      92,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      113,
+      114,
+      115,
+      116,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      21,
+      22,
+      23,
+      24
+    ]
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 35,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$EJRX4gLba0zwTgTnQYJ85p$DqrqoBfptGgc3Y0AugwDha53ReXNSyrkbLmJ+alKCqw=",
+    "last_login": "2026-02-04T10:52:14Z",
+    "is_superuser": false,
+    "username": "T343731",
+    "first_name": "YAHYA",
+    "last_name": "AZAMMAT",
+    "email": "yazmmat09@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-02-04T10:52:12Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 36,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$r2xsKfZvarVbCfazjx8FHU$1X1hZPORS4ERqHHHC753evX81KLbYsQEFix5qRBXT/A=",
+    "last_login": "2026-02-04T11:10:03.356Z",
+    "is_superuser": false,
+    "username": "Abdesalam",
+    "first_name": "Abdeslam",
+    "last_name": "Azammat",
+    "email": "azmmat2007@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-02-04T11:02:20Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 37,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$cPJDdYN2gDaw50dxzGeA3I$mZXC+zP2h1+G/co3esXujXEwfZRtZUlTWjhk27ntUMI=",
+    "last_login": null,
+    "is_superuser": true,
+    "username": "yahya122",
+    "first_name": "",
+    "last_name": "",
+    "email": "yazmmat@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2026-02-09T11:18:14.086Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "11m6en5zqhlc76wkp88c4pa9pvc70t86",
+  "fields": {
+    "session_data": ".eJxVjLsOwjAMAP_FM4pS4j43EGu_IXJshxZQitJ2QIh_R5W6dL073RfeWaPmrOJ5zVkTf6CD_nKDE3hal8Gvs2Y_CnRQHFkgfmrahDwo3SfDU1ryGMyWmN3Opp9EX9e9PQwGmgfowOLZqjbOMZYSEbUU1NpyFFcHbivLhVBTIUUsyWqMrmVXhUIC2lq4hd8ftdVB1A:1vnacV:29wB_j7G86bziDrO1hGOnnjowSls8RSV9TnaPzWDeGc",
+    "expire_date": "2026-02-18T11:00:27.345Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "1se40tvdt0knn4ng9doma8sxzlr041e4",
+  "fields": {
+    "session_data": "e30:1vnRYN:INnrpHmSZON0a-tCu9QMT9TryvPNUS9_IvSXGx7XgL0",
+    "expire_date": "2026-02-18T01:19:35.300Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "2u1x8wt4bag93w4ehxsnthxw2tbg0rgd",
+  "fields": {
+    "session_data": "eyJwcmVmZXJyZWRfY3VycmVuY3kiOiJNQUQifQ:1vnaba:lR2hRvX_kHXPIaxh8ow07266y61VPfnbFVpBEj1AxEo",
+    "expire_date": "2026-02-18T10:59:30.241Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "8bzomnqjnlr6i9uv8fzfsg9ry7muvck6",
+  "fields": {
+    "session_data": ".eJxVjEEOgjAQAP-yZ9JAEZZ603jlDc22uyuoKabAwRj_bkg46HVmMm_wtC6DX2fJfmQ4gnVQ_MJA8S5pM3yjdJ1MnNKSx2C2xOx2Nv3E8jjv7d9goHnYviU3HWGLUltiRKuhUqodojJxEKvctaWNsdLaBYcHbBVtTdSV2ARFKOCZRSVnYR_XnCXFFxyhP13g8wWW6EHG:1vldnQ:FFadl3nrhJ1uw7ZnuRTN_OdW5Jn2eFCOq2HezlK6NfM",
+    "expire_date": "2026-02-13T01:59:40.782Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "8f9hna004sazanhlarydh6v31xw8b5c1",
+  "fields": {
+    "session_data": ".eJxVjMsOgjAQAP9lz6Zpi33ATeOVb2i23a2gppgCB2P8d0PChevMZL7wrpy5VqaQ1lq5pA900F9ucIKA6zKEdeYaRoIO1JFFTE8um6AHlvsk0lSWOkaxJWK3s-gn4td1bw-DAecBOvCskmPtpfQmtohkrTFR4dkkpz1qnZTT0UlFDaHObJmatnXe2ySbnB38_p4FQPE:1vlUeC:PvNJY5YDCAr0beGbnRbrVwro_mlP_o1FJSB5Yz2FCX8",
+    "expire_date": "2026-02-12T16:13:32.105Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "cwfkbp7apfe1ym3ne2v28tgedjrckztn",
+  "fields": {
+    "session_data": "e30:1vnZcl:kttMB9X9vaEpt_o3pjqbVrwM6rKMOQ8K2pALPVj4y4k",
+    "expire_date": "2026-02-18T09:56:39.142Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "cx5zb5t2qdbth0fji6aedzxri4mzhz5n",
+  "fields": {
+    "session_data": "eyJwcmVmZXJyZWRfY3VycmVuY3kiOiJNQUQifQ:1vlUJk:VebrcsOvLSnCmD2CDGoO4EPUoE_882_hWngjCJ6VlvE",
+    "expire_date": "2026-02-12T15:52:24.107Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "fxgfw4w7jtlhen0fey928dp4mebdltac",
+  "fields": {
+    "session_data": "eyJwcmVmZXJyZWRfY3VycmVuY3kiOiJNQUQifQ:1vnZfp:prTSXJcQ89DGwpOy4yOn5d6TeiY_b8GSCLPOLiXA_y4",
+    "expire_date": "2026-02-18T09:59:49.970Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "h4qafo6nvfjiwyz2h1ylpd19mmow58ao",
+  "fields": {
+    "session_data": ".eJxVjEEOgjAQAP-yZ9NAEZZy03jlDc22uyuoKabAwRj_bki4cJ2ZzBfeWVRyFvZxzVlS_EAH_eUGJ_C0LoNfZ8l-ZOjAuiMMFJ-SNsMPSvfJxCkteQxmS8xuZ9NPLK_r3h4GA83D9i24bgkblMoSI1oNpVLlEJWJg1jltilsjKVWLjg8Y6NoK6K2wDoowu8P6xtBxg:1vmIEh:NJJgtf59A18eOhT07gm3xDG5YsnknXmj7XazpC1t6Pk",
+    "expire_date": "2026-02-14T21:10:31.224Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "ixn1wayc1bhsvg4uou11hc8630j3yupm",
+  "fields": {
+    "session_data": ".eJxVjMsKwjAQAP9lzxLSbPOgN8VrvyFsNhtblVbS9iDiv4vQS68zw3zgVaVIrZIjb7XKxG_ooD9f4QSRtnWI2yI1jhk6QHeEifgh09_kO023WfE8rXVM6p-o3S6qn7M8L3t7GAy0DNCBxUY422CZ0WrdMnrtGwmkXTAOyRtvc1vEYElkRDtN0mK2ggltSQG-P8DoQQ8:1vnatI:qVFD0sdIDbiAD34Z1l5whw8BFfum2ISvo5ihyk06Ruk",
+    "expire_date": "2026-02-18T11:17:48.072Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "jqzxas2401wrcahyhlpmn6qekk6gnrk0",
+  "fields": {
+    "session_data": ".eJxVjMsOgjAQAP9lz6Zpi33ATeOVb2i23a2gppgCB2P8d0PChevMZL7wrpy5VqaQ1lq5pA900F9ucIKA6zKEdeYaRoIO1JFFTE8um6AHlvsk0lSWOkaxJWK3s-gn4td1bw-DAecBOvCskmPtpfQmtohkrTFR4dkkpz1qnZTT0UlFDaHObJmatnXe2ySbnB38_p4FQPE:1vmCm2:SflCB8r-MhHOZBl1l8BtblfxOkSzY8JaWj1OEkA8NxU",
+    "expire_date": "2026-02-14T15:20:34.238Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "l5deo02vg6tmpbolbon7yroi3hde2mdl",
+  "fields": {
+    "session_data": ".eJxVjMsKwjAQAP9lzyUkqXm0N8VrvyFsshvrg1TS9iDiv0uhB73ODPOGgOsyhnXmGq4EPShoflnEdOeyCbphuUwiTWWp1yi2ROx2FsNE_Djt7d9gxHmEHjyr5Fh7Kb2JHSJZa0xUeDDJaY9aJ-V0dFJRS6gzW6a265z3Nsk2ZwcNPCtnrpUppLVWLukFPQzHM3y-PKRA8Q:1vl2pB:pfcLikYdACJTjuACyPOppnSuWWtY--jrY1AOS_OXsuU",
+    "expire_date": "2026-02-11T10:31:01.061Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "mwgcd7t30o48orf541wb6zwmrt04wa31",
+  "fields": {
+    "session_data": ".eJxVjEEOgjAQRe8ya9O0SCllp3HLGZrpdCqoKWaAhTHe3ZCw4S_fe_lfeAtnFuEUaBXhQh_ooL_c4AQB12UI68wSxgQdmCOLSE8um0gPLPdJ0VQWGaPaErXbWfVT4td1bw8HA84DdODRa6qMyedM1jStdy5z2padd1zrmlK0DltN3rXWNeastUVdNUTRRw-_P7GNQS8:1vpPJW:QUzzhGqIc2dI2gsyT78zFtUYNFIxAP-vSjOPMqiZ134",
+    "expire_date": "2026-02-23T11:20:22.009Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "pfmqwyqiji7zb05d74hkpw7l97j7l088",
+  "fields": {
+    "session_data": ".eJxVjEEOgyAQAP-y54YggoC3ml59A1mWtdo22KAemqZ_b0y8eJ2ZzBfehQcuhVOgrRTO9IEW-usNLhBwW8ewLVzClKAF5c8wIj057yY9MN9nQXNeyxTFnojDLqKfE7-6oz0NRlxGaIFrxRK5ksbKGpXXyVndDN45jVXkJmpGlbTmaCxbImecq61HJXUkUxH8_s-RQSg:1vnRYB:3F719DvYRFWvA3jifhb1Ldk7trBve54G6XH3gY0H54o",
+    "expire_date": "2026-02-18T01:19:23.842Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "r9drcop3ky21jmvchvf5go1s4brlin8o",
+  "fields": {
+    "session_data": ".eJxVjEsKwjAUAO_y1hKSZ77dKW57hpDPi61KKmm7EPHuUuim25lhvvBuVKg1yj6trVFNH-igv9zgBD6sy-DXmZofM3RwVkcYQ3pS3Ux-hHqfWJrq0sbItoTtdmb9lOl13dvDYAjzAB2gjJob6Yy1hUsjyKosFXIhMJQzdxRN1DKTUKFEVOiizcid00EqnRDh9wenQEAz:1vnauA:tHeS23KB1Ea31kt-hMqaTLRBzUwf3xMQ_2D54nBpzNQ",
+    "expire_date": "2026-02-18T11:18:42.589Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "sf4g5mhb77hz8o32joy8fro0es97c6q4",
+  "fields": {
+    "session_data": "eyJwcmVmZXJyZWRfY3VycmVuY3kiOiJNQUQifQ:1vmDmU:nKsFnN9UbE80vS9ke7Fts2_TSls8L8Up-rP6Ey5njx8",
+    "expire_date": "2026-02-14T16:25:06.930Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "wrzc9o23gfxxjaiifovhmxac7dr97eek",
+  "fields": {
+    "session_data": "eyJwcmVmZXJyZWRfY3VycmVuY3kiOiJNQUQifQ:1vl3ql:qYaaaaw9jaOBckUDsnPh25SLClHNCycy3FiBwGb-SAc",
+    "expire_date": "2026-02-11T11:36:43.502Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "x56ux1c2kszs3luzta0vbq1qs0rzes7i",
+  "fields": {
+    "session_data": ".eJxVjEEOgjAQAP-yZ9NAEZZy03jlDc22uyuoKabAwRj_bki4cJ2ZzBfeWVRyFvZxzVlS_EAH_eUGJ_C0LoNfZ8l-ZOjAuiMMFJ-SNsMPSvfJxCkteQxmS8xuZ9NPLK_r3h4GA83D9i24bgkblMoSI1oNpVLlEJWJg1jltilsjKVWLjg8Y6NoK6K2wDoowu8P6xtBxg:1vmDbZ:y4UKdST5_eq1AtrkQ28uCWAkSZ8fmreFNx3VLkdl9Hc",
+    "expire_date": "2026-02-14T16:13:49.882Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "ze88bwtmxb5lpk546eemc3gpmjy3f9bt",
+  "fields": {
+    "session_data": ".eJxVjEEOgjAQRe8ya9NYprTATuOWMzTT6VRQU0yBhTHe3ZCwYfvfe_8L7yJJSpHoeS1FMn-gg_5ygxN4WpfBr7MUP0booGqOYyB-St5IfFC-T4qnvJQxqE1RO51VP0V5XXf3cDDQPGy1tU5rh0zOiMUWg-ZQGdNStCnFSrhGspoSMWJwiWPLZ63RNbVhiwZ-f9-uQXs:1vmIgQ:ycneXmvBgsFjTm7jnlXisMgMPGOL0tPzLahM5Noe4lU",
+    "expire_date": "2026-02-14T21:39:10.757Z"
+  }
+},
+{
+  "model": "prolean.pageview",
+  "pk": 1,
+  "fields": {
+    "url": "/",
+    "page_title": "Accueil - prolean Centre",
+    "referrer": "",
+    "session_id": "3kxnal19ngngfpgnjgn6xh4zkgdeajbo",
+    "ip_address": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "city": "Casablanca",
+    "country": "Maroc",
+    "device_type": "desktop",
+    "timestamp": "2026-02-09T11:16:11.122Z"
+  }
+},
+{
+  "model": "prolean.pageview",
+  "pk": 2,
+  "fields": {
+    "url": "/",
+    "page_title": "Accueil - prolean Centre",
+    "referrer": "http://127.0.0.1:8000/login/",
+    "session_id": "mwgcd7t30o48orf541wb6zwmrt04wa31",
+    "ip_address": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "city": "Casablanca",
+    "country": "Maroc",
+    "device_type": "desktop",
+    "timestamp": "2026-02-09T11:16:35.932Z"
+  }
+},
+{
+  "model": "prolean.pageview",
+  "pk": 3,
+  "fields": {
+    "url": "/",
+    "page_title": "Accueil - prolean Centre",
+    "referrer": "http://127.0.0.1:8000/mon-espace/",
+    "session_id": "mwgcd7t30o48orf541wb6zwmrt04wa31",
+    "ip_address": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "city": "Casablanca",
+    "country": "Maroc",
+    "device_type": "desktop",
+    "timestamp": "2026-02-09T11:16:45.336Z"
+  }
+},
+{
+  "model": "prolean.pageview",
+  "pk": 4,
+  "fields": {
+    "url": "/",
+    "page_title": "Accueil - prolean Centre",
+    "referrer": "",
+    "session_id": "mwgcd7t30o48orf541wb6zwmrt04wa31",
+    "ip_address": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "city": "Casablanca",
+    "country": "Maroc",
+    "device_type": "desktop",
+    "timestamp": "2026-02-09T11:20:20.288Z"
+  }
+},
+{
+  "model": "prolean.visitorsession",
+  "pk": 1,
+  "fields": {
+    "session_id": "3kxnal19ngngfpgnjgn6xh4zkgdeajbo",
+    "ip_address": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "city": "Casablanca",
+    "country": "Maroc",
+    "device_type": "desktop",
+    "browser": "",
+    "os": "",
+    "referrer": "",
+    "landing_page": "/",
+    "start_time": "2026-02-09T11:16:11.114Z",
+    "last_activity": "2026-02-09T11:16:11.114Z",
+    "page_views": 1,
+    "session_duration": 0
+  }
+},
+{
+  "model": "prolean.visitorsession",
+  "pk": 2,
+  "fields": {
+    "session_id": "mwgcd7t30o48orf541wb6zwmrt04wa31",
+    "ip_address": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "city": "Casablanca",
+    "country": "Maroc",
+    "device_type": "desktop",
+    "browser": "",
+    "os": "",
+    "referrer": "http://127.0.0.1:8000/login/",
+    "landing_page": "/",
+    "start_time": "2026-02-09T11:16:35.908Z",
+    "last_activity": "2026-02-09T11:20:20.282Z",
+    "page_views": 3,
+    "session_duration": 0
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 1,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:13.005Z",
+    "last_request": "2026-02-09T11:16:13.005Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 2,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:14.211Z",
+    "last_request": "2026-02-09T11:16:14.211Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 3,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:24.568Z",
+    "last_request": "2026-02-09T11:16:24.568Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 4,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:25.661Z",
+    "last_request": "2026-02-09T11:16:25.661Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 5,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:37.062Z",
+    "last_request": "2026-02-09T11:16:37.063Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 6,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:38.138Z",
+    "last_request": "2026-02-09T11:16:38.138Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 7,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:40.334Z",
+    "last_request": "2026-02-09T11:16:40.334Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 8,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:41.339Z",
+    "last_request": "2026-02-09T11:16:41.339Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 9,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:45.808Z",
+    "last_request": "2026-02-09T11:16:45.808Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 10,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:16:46.879Z",
+    "last_request": "2026-02-09T11:16:46.879Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 11,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:20:20.793Z",
+    "last_request": "2026-02-09T11:20:20.793Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.ratelimitlog",
+  "pk": 12,
+  "fields": {
+    "ip_address": "127.0.0.1",
+    "endpoint": "update_currency",
+    "request_count": 1,
+    "period_minutes": 1,
+    "first_request": "2026-02-09T11:20:21.958Z",
+    "last_request": "2026-02-09T11:20:21.959Z",
+    "is_threat": false
+  }
+},
+{
+  "model": "prolean.profile",
+  "pk": 1,
+  "fields": {
+    "user": 1,
+    "role": "ADMIN",
+    "full_name": "yahya12",
+    "cin_or_passport": null,
+    "phone_number": "+212676265793",
+    "city": null,
+    "status": "ACTIVE",
+    "email_verified": false,
+    "profile_picture": "",
+    "created_at": "2026-02-09T11:16:35.837Z",
+    "updated_at": "2026-02-09T11:19:36.157Z"
+  }
+},
+{
+  "model": "prolean.studentprofile",
+  "pk": 1,
+  "fields": {
+    "profile": 1,
+    "session": null,
+    "amount_paid": "0.00",
+    "total_amount_due": "0.00",
+    "authorized_formations": []
+  }
+}
+]
