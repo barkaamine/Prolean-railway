@@ -3,6 +3,7 @@ import os
 import django
 import random
 from datetime import datetime, timedelta
+from django.utils.text import slugify
 
 # Setup Django environment
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Project.settings')
@@ -335,8 +336,8 @@ def create_trainings():
     
     created = 0
     for i, data in enumerate(trainings_data):
-        # Create slug from title
-        slug = data['title'].lower().replace(' ', '-').replace('–', '').replace(',', '').replace('.', '')
+        # Create slug from title using Django's slugify
+        slug = slugify(data['title'])
         
         # Set gallery images (different for each training)
         gallery_start_idx = i % 3
