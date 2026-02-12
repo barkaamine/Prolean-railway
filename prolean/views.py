@@ -460,8 +460,19 @@ def track_page_view(request, page_title=''):
         logger.error(f"Error tracking page view: {e}")
 
 def home(request):
-    """Isolation test for deep diagnosis"""
-    return HttpResponse("OK - Prolean Isolation Test")
+    """Optimized home view with featured trainings"""
+    track_page_view(request, "Accueil")
+    
+    # Get featured trainings with optimized fields
+    featured_trainings = Training.objects.filter(is_active=True, is_featured=True).only(
+        'title', 'slug', 'short_description', 'price_mad',
+        'duration_days', 'success_rate', 'max_students', 'badge',
+        'thumbnail', 'next_session'
+    ).order_by('-created_at')[:4]
+    
+    return render(request, 'prolean/home.html', {
+        'featured_trainings': featured_trainings,
+    })
 
 def training_catalog(request):
     """Training catalog view with optimized queries"""
