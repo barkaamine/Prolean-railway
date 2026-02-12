@@ -140,6 +140,15 @@ CACHES = {
         'LOCATION': 'unique-snowflake',
     }
 }
+# Use Redis for caching if available (Railway)
+REDIS_URL = os.environ.get('REDIS_URL') or os.environ.get('CELERY_BROKER_URL')
+if REDIS_URL and 'redis' in REDIS_URL:
+    CACHES = {
+        'default': {
+            'BACKEND': 'django.core.cache.backends.redis.RedisCache',
+            'LOCATION': REDIS_URL,
+        }
+    }
 
 
 # Session Configuration

@@ -414,7 +414,10 @@ def track_page_view(request, page_title=''):
             session_id = request.session.session_key
         
         ip_address = get_client_ip(request)
-        user_location = get_location_from_ip(ip_address)
+        user_location = request.session.get('user_location')
+        if not user_location:
+            user_location = get_location_from_ip(ip_address)
+            request.session['user_location'] = user_location
         
         # Check if IP is blocked
         if RateLimiter.is_ip_blocked(ip_address):
@@ -485,9 +488,8 @@ def home(request):
         
         cache.set('featured_trainings', featured_trainings, 1800)  # 30 minutes
     
-    # Get user location
+    # Get user location (Handled by context processor)
     ip_address = get_client_ip(request)
-    user_location = get_location_from_ip(ip_address)
     
     # Get currency rates from cache
     currency_rates = cache.get('currency_rates')
@@ -511,7 +513,7 @@ def home(request):
     
     context = {
         'featured_trainings': featured_trainings,
-        'user_location': user_location,
+        # 'user_location': user_location,  # Provided by context processor
         'currency_rates': currency_rates,
         'preferred_currency': preferred_currency,
     }
@@ -728,12 +730,11 @@ def migration_services(request):
         }, status=429)
     
     cities = City.objects.filter(is_active=True).order_by('name')
-    ip_address = get_client_ip(request)
-    user_location = get_location_from_ip(ip_address)
+    # User location handled by context processor
     
     context = {
         'all_cities': cities,
-        'user_location': user_location,
+        # 'user_location': user_location,
     }
     
     return render(request, "prolean/migration_services.html", context)
@@ -753,12 +754,11 @@ def contact_centers(request):
         }, status=429)
     
     cities = City.objects.filter(is_active=True).order_by('name')
-    ip_address = get_client_ip(request)
-    user_location = get_location_from_ip(ip_address)
+    # User location handled by context processor
     
     context = {
         'all_cities': cities,
-        'user_location': user_location,
+        # 'user_location': user_location,
     }
     
     return render(request, "prolean/contact_centers.html", context)
@@ -777,8 +777,11 @@ def submit_contact_request(request):
         
         data = json.loads(request.body)
         
-        # Get user location
-        user_location = get_location_from_ip(ip_address)
+        # Get user location with session cache
+        user_location = request.session.get('user_location')
+        if not user_location:
+            user_location = get_location_from_ip(ip_address)
+            request.session['user_location'] = user_location
         
         # Determine request type
         request_type = data.get('request_type', 'information')
