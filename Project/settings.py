@@ -89,8 +89,9 @@ WSGI_APPLICATION = 'Project.wsgi.application'
 
 import dj_database_url
 
-# Use PostgreSQL if DATABASE_URL is set (production/Railway), otherwise use SQLite (local development)
-DATABASE_URL = os.environ.get('DATABASE_URL')
+# Use PostgreSQL if DATABASE_PUBLIC_URL or DATABASE_URL is set (production/Railway)
+# Otherwise use SQLite (local development)
+DATABASE_URL = os.environ.get('DATABASE_PUBLIC_URL') or os.environ.get('DATABASE_URL')
 
 if DATABASE_URL:
     # PostgreSQL configuration for production (Railway)

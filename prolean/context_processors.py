@@ -14,7 +14,16 @@ def get_client_ip(request):
     return ip
 
 def get_location_from_ip(ip_address):
-    """Get location from IP address using ip-api.com"""
+    """
+    Get location from IP address.
+    OPTIMIZATION: Returning default location to prevent blocking synchronous calls
+    that cause Gunicorn worker timeouts.
+    """
+    # Default fallback - Instant return to prevent timeout
+    return {'city': 'Casablanca', 'country': 'Maroc', 'countryCode': 'MA'}
+    
+    # Original blocking implementation commented out for reference/future async implementation:
+    """
     # Default fallback
     default_location = {'city': 'Casablanca', 'country': 'Maroc', 'countryCode': 'MA'}
     
@@ -55,6 +64,7 @@ def get_location_from_ip(ip_address):
         pass
     
     return default_location
+    """
 
 def currency_rates(request):
     """Add currency rates to context"""
