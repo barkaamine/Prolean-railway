@@ -460,65 +460,8 @@ def track_page_view(request, page_title=''):
         logger.error(f"Error tracking page view: {e}")
 
 def home(request):
-    """Home page view with optimized queries"""
-    track_page_view(request, "Accueil - prolean Centre")
-    
-    # Get featured trainings from cache or database
-    featured_trainings = cache.get('featured_trainings')
-    
-    if featured_trainings is None:
-        featured_trainings = Training.objects.filter(
-            is_active=True,
-            is_featured=True
-        ).only(
-            'id', 'title', 'slug', 'short_description', 'price_mad',
-            'duration_days', 'success_rate', 'max_students', 'badge',
-            'thumbnail'
-        ).order_by('-created_at')[:4]
-        
-        # If no featured trainings, get recent active ones
-        if not featured_trainings:
-            featured_trainings = Training.objects.filter(
-                is_active=True
-            ).only(
-                'id', 'title', 'slug', 'short_description', 'price_mad',
-                'duration_days', 'success_rate', 'max_students', 'badge',
-                'thumbnail'
-            ).order_by('-created_at')[:4]
-        
-        cache.set('featured_trainings', featured_trainings, 1800)  # 30 minutes
-    
-    # Get user location (Handled by context processor)
-    ip_address = get_client_ip(request)
-    
-    # Get currency rates from cache
-    currency_rates = cache.get('currency_rates')
-    if currency_rates is None:
-        currency_rates = {}
-        try:
-            db_rates = CurrencyRate.objects.all()
-            for rate in db_rates:
-                currency_rates[rate.currency_code] = float(rate.rate_to_mad)
-        except:
-            currency_rates = {'MAD': 1.0, 'EUR': 0.093, 'USD': 0.100, 'GBP': 0.079}
-        cache.set('currency_rates', currency_rates, 3600)
-    
-    # Get preferred currency
-    preferred_currency = request.session.get('preferred_currency', 'MAD')
-    
-    # Prepare training data
-    for training in featured_trainings:
-        training.price_mad_float = float(training.price_mad)
-        training.price_in_preferred = float(training.get_price_in_currency(preferred_currency))
-    
-    context = {
-        'featured_trainings': featured_trainings,
-        # 'user_location': user_location,  # Provided by context processor
-        'currency_rates': currency_rates,
-        'preferred_currency': preferred_currency,
-    }
-    
-    return render(request, "prolean/home.html", context)
+    """Isolation test for deep diagnosis"""
+    return HttpResponse("OK - Prolean Isolation Test")
 
 def training_catalog(request):
     """Training catalog view with optimized queries"""
